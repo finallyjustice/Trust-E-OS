@@ -4,7 +4,8 @@ Trust-E-OS
 Trust-E OS v1.0 (Trusted Embedded Operating System) based on ARM TrustZone technology.
 ======================================================================================
 
-#
+===============================================================================================================
+
 # (C) Copyright 2014  Xia Yang
 #
 # Design by University of Electronic Science and Technology of China of Embedded Real Time Computing Laboratory.
@@ -17,7 +18,8 @@ Trust-E OS v1.0 (Trusted Embedded Operating System) based on ARM TrustZone techn
 # See file Trust-Eos，it describe in detail the basic information and design  # criteria of the project.
 #
 # See file Content List,it introduces in detail the contents and functions of # each folder of the project file.
-#
+
+================================================================================================================
 
 Version information related target：
 ==================================
