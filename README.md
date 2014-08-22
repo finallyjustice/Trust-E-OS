@@ -19,7 +19,7 @@ See file Trust-Eos，it describe in detail the basic information and design crit
 
 See file Content List,it introduces in detail the contents and functions of each folder of the project file.
 
-================================================================================================================
+============================================================================================================
 
 Version information related target：
 ==================================
@@ -41,18 +41,18 @@ Contributers are recommended to fork the app on GitHub (but don't have too). Cre
 
 All code that is contributed  must be compliant with GPLv2 (http://www.gnu.org/licenses/gpl-2.0.html).
 
-Is it stable：
-=============
+Stability：
+==========
 
 Yes it is. In our testing of the system, the performance is stable.In as much as possible to completely test,we found no problems, but we do not make any guarantee.
 
-Are you interesting：
-====================
+Interest：
+=========
 
 ARM TrustZone technology for safety promotion as well as the mobile terminal has been greatly improved, our goal is to build as safe as possible, shield the external application brings potential risk to provide more safe and credible services.If you expressed interest for this project, we will be very willing to communicate.
 
 Summary：
-==========
+========
 
 Trusted Embedded Operating System is just our initial version and define it as Trust-E OS v1.0, then our operating system will have richer service more comprehensive features will be added.
 
