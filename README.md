@@ -21,8 +21,8 @@ See file Content List,it introduces in detail the contents and functions of each
 
 ============================================================================================================
 
-Version information related target：
-==================================
+Version information：
+====================
 
 Platform: S5PV210
 
