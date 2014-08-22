@@ -25,11 +25,17 @@ Version information related target：
 ==================================
 
 Platform: S5PV210
+
 U-boot: utv210-uboot-v1.0
+
 Kernel: Linux2.6.32
+
 Android: Android2.2
+
 Cross_Compile: arm-2009q3
+
 Android NDK:android-ndk-r9c-linux
+
 Programming Tool：DNW
 
 Contributions：
