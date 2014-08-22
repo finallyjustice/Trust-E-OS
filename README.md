@@ -2,7 +2,7 @@ Trust-E-OS
 ==========
 
 Trust-E OS v1.0 (Trusted Embedded Operating System) based on ARM TrustZone technology.
-======================================================================================
+
 
 Statement:
 ==========
@@ -10,15 +10,14 @@ Statement:
 (C) Copyright 2014  Xia Yang
 
 Design by University of Electronic Science and Technology of China of Embedded Real Time Computing Laboratory.
-# 
-# Contact Info:xyang@uestc.edu.cn
-#
-# See file License to project for more details.
-# (http://www.gnu.org/licenses/gpl-2.0.html)
-#
-# See file Trust-Eos，it describe in detail the basic information and design criteria of the project.
-#
-# See file Content List,it introduces in detail the contents and functions of each folder of the project file.
+
+Contact Info:xyang@uestc.edu.cn
+
+See file License to project for more details. (http://www.gnu.org/licenses/gpl-2.0.html)
+
+See file Trust-Eos，it describe in detail the basic information and design criteria of the project.
+
+See file Content List,it introduces in detail the contents and functions of each folder of the project file.
 
 ================================================================================================================
 
