@@ -1,0 +1,13 @@
+Content List£º
+
+1.T-os: provides task scheduling and memory management functions; definition version to version 1.0
+
+2.tz_driver: TrustZoneDriver.Data communication via the underlying code execution environment and security monitors in the kernel,switching ordinary execution environment to monitor mode.
+ 
+3.tz_api: Normal service application calls credible excuse, responsible for interaction with the underlying drivers.
+
+4.kernel: has compiled Linux kernel image file, Makefile internal need to modify the image file location 
+
+5.include: relevant Trustzone drive, communication and installation services section header files 
+
+6.bin: compiled by the target file

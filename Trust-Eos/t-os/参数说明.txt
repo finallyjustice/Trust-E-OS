@@ -1,0 +1,7 @@
+1.OpenSession
+   Client: params[0] MEMREF_INPUT destination uuid （用户层传入）
+
+   T-OS: params[0] MEMREF_INPUT destination uuid
+         params[1] MEMREF_INPUT client uuid  （在kernel层添加）
+         params[2] login_type                 (在kernel层添加)
+

@@ -1,0 +1,27 @@
+
+
+功能：编码/解码模块可以对TEE_Param[4]的参数进行编码/解码。
+     其中在A环境中将参数表示为TEE_Param，在B环境中将参数从TEE_Param[4]取出后进行处理，并且写回TEE_Param[4]。
+
+
+1.参数结构体TEE_Param:
+    typedef union  
+    {  
+        struct  
+        {  
+           void*    buffer ; size_t    size;  
+        } memref; 
+        struct  
+        {  
+           uint32_t a, b; 
+        } value;  
+    } TEE_Param; 
+
+2.参数类型：
+    TEE_PARAM_TYPE_NONE  0  
+    TEE_PARAM_TYPE_VALUE_INPUT      1
+    TEE_PARAM_TYPE_VALUE_OUTPUT     2
+    TEE_PARAM_TYPE_VALUE_INOUT      3
+    TEE_PARAM_TYPE_MEMREF_INPUT     5
+    TEE_PARAM_TYPE_MEMREF_OUTPUT    6
+    TEE_PARAM_TYPE_MEMREF_INOUT     7
